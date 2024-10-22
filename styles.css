@@ -102,9 +102,9 @@ body {
 
 /* Mobile and tablet screens */
 @media (max-width: 842px) {
-  /* .hamburger {
+  .hamburger {
     display: flex;
-  } */
+  }
 
   .hamburger.show {
     display: flex;
